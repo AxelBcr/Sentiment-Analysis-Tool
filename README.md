@@ -17,7 +17,7 @@ The **Sentiment Analysis Tool** is a free, user-friendly application designed to
 
 ## Quick Start
 ### 1. Download the Executable
-Get the latest version of the tool from the **[Releases Section](https://github.com/AxelBcr/Sentiment-Analysis/releases)**.
+Get the latest version of the tool from the **[Releases Section](https://github.com/AxelBcr/Sentiment-Analysis-Tool/releases)**.
 
 ### 2. Run the Application
 1. Download the `.exe` file from the latest release.
@@ -32,7 +32,7 @@ Get the latest version of the tool from the **[Releases Section](https://github.
 ---
 
 ## Advanced Features in Full Version
-Looking for more features? Check out the **[Full Version on GumRoad](https://axelbcr.gumroad.com/l/sentimental-analysis-tool-full)**, which includes:
+Looking for more features? Check out the **[Full Version on GumRoad](https://axelbcr.gumroad.com/l/sentimental-analysis-tool)**, which includes:
 - **SMOTE Balancing** - Handles imbalanced datasets effectively.
 - **Custom Thresholds** - Adjust classification thresholds.
 - **Custom Sentiment Meter** - Adjust minimum value for positive data.
