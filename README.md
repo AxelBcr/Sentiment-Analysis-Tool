@@ -3,7 +3,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/AxelBcr/Sentiment-Analysis-Tool?include_prereleases)  
 
 ## Overview
-The **Sentiment Analysis Tool** is a free, user-friendly application designed to analyze text sentiment and classify it into **positive**, **negative**, or **neutral** categories. This tool combines **machine learning techniques** with **VADER sentiment analysis** to deliver accurate results, all accessible through an intuitive GUI.
+The **Sentiment Analysis Tool** is a free, user-friendly application designed to analyze text sentiment and classify it into **positive** or **negative** categories. This tool combines **machine learning techniques** with **VADER sentiment analysis** to deliver accurate results, all accessible through an intuitive GUI.
 
 ---
 
