@@ -32,7 +32,7 @@ Get the latest version of the tool from the **[Releases Section](https://github.
 ---
 
 ## Advanced Features in Full Version
-Looking for more features? Check out the **[Full Version on GumRoad](https://axelbcr.gumroad.com/l/sentimental-analysis-tool)**, which includes:
+Looking for more features? Check out the **[Full Version on GumRoad](https://axelbcr.gumroad.com/l/sentiment-analysis-tool)**, which includes:
 - **SMOTE Balancing** - Handles imbalanced datasets effectively.
 - **Custom Thresholds** - Adjust classification thresholds.
 - **Custom Sentiment Meter** - Adjust minimum value for positive data.
