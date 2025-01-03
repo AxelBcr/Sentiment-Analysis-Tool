@@ -20,7 +20,7 @@ The **Sentiment Analysis Tool** is a free, user-friendly application designed to
 Get the latest version of the tool from the **[Releases Section](https://github.com/AxelBcr/Sentiment-Analysis-Tool/releases)**.
 
 ### 2. Run the Application
-1. Download the `.exe` file from the latest release.
+1. Download the `.exe`, `.vocab` and `.txt` files from the latest release.
 2. Double-click the file to launch the GUI.
 3. Select a folder containing `.txt` files as input.
 4. Analyze sentiment and view performance metrics instantly.
